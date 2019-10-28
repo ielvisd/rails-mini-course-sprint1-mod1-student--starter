@@ -19,7 +19,7 @@ In order to get started, you will first need to create a `candidates.rb` file. I
 | current_salary | 125,000.00           | float            |
 | languages      | Ruby, JavaScript, Go | array of strings |
 
-***
+---
 
 **sara**:
 
@@ -34,7 +34,7 @@ In order to get started, you will first need to create a `candidates.rb` file. I
 | current_salary | 80,000.00          | float            |
 | languages      | Ruby, Python       | array of strings |
 
-***
+---
 
 **jason**:
 
@@ -49,17 +49,17 @@ In order to get started, you will first need to create a `candidates.rb` file. I
 | current_salary | 0.00        | float            |
 | languages      | C++, Python | array of strings |
 
-***
+---
 
 ### Instructions
 
 #### Step One - Data Setup
 
-1. Create `candidates.rb` file.
-2. Create 3 different hashes based on the table of data above and assign them to variables `jane`, `sara`, and `jason` (use symbol keys and no hashrockets).
-3. Paste all three hashes being assigned to variables into irb.
-4. Call each variable to make sure it exists and is assigned to the correct hash.
-5. Create an array named `candidates` that contains the three hashes (`jane`, `sara`, and `jason`).
+1. Create `candidates.rb` file. ✅
+2. Create 3 different hashes based on the table of data above and assign them to variables `jane`, `sara`, and `jason` (use symbol keys and no hashrockets). ✅
+3. Paste all three hashes being assigned to variables into irb. ✅
+4. Call each variable to make sure it exists and is assigned to the correct hash. ✅
+5. Create an array named `candidates` that contains the three hashes (`jane`, `sara`, and `jason`). ✅!
 
 #### Step Two - Average Age
 
