@@ -59,20 +59,20 @@ In order to get started, you will first need to create a `candidates.rb` file. I
 2. Create 3 different hashes based on the table of data above and assign them to variables `jane`, `sara`, and `jason` (use symbol keys and no hashrockets). ✅
 3. Paste all three hashes being assigned to variables into irb. ✅
 4. Call each variable to make sure it exists and is assigned to the correct hash. ✅
-5. Create an array named `candidates` that contains the three hashes (`jane`, `sara`, and `jason`). ✅!
+5. Create an array named `candidates` that contains the three hashes (`jane`, `sara`, and `jason`). ✅
 
 #### Step Two - Average Age
 
 We need to provide some analytics to our HR department about our job candidates. They want the average age of our current candidate pool.
 
-1. Define a method named `average_age` that accepts an argument named `people`.
+1. Define a method named `average_age` that accepts an argument named `people`. ✅
 
-   - The method should iterate over the list of `people` passed into it, extracting their age values using `map`.
-   - The method should then use `reduce` to sum all the ages
-   - Finally, it should divide that sum by the size of the original `people` list to determine the average age
+   - The method should iterate over the list of `people` passed into it, extracting their age values using `map`. ✅
+   - The method should then use `reduce` to sum all the ages ✅
+   - Finally, it should divide that sum by the size of the original `people` list to determine the average age ✅
 
-2. The result must be the floating point fractional average age (the division cannot be based on integer only divison) of the `people` passed into the method.
-3. Run your newly defined method against the `candidates` list in irb and paste your method and the result into a new `average_age.rb` file
+2. The result must be the floating point fractional average age (the division cannot be based on integer only divison) of the `people` passed into the method. ✅
+3. Run your newly defined method against the `candidates` list in irb and paste your method and the result into a new `average_age.rb` file ✅
 
 #### Step Three - Language Screening
 

@@ -30,3 +30,5 @@ jason = {
     current_salaray: 0.00, 
     languages: ['C++', 'Python']
 }
+
+candidates = [jane, sara, jason]
