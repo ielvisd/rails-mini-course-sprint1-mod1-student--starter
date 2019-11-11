@@ -78,12 +78,12 @@ We need to provide some analytics to our HR department about our job candidates.
 
 We need to be able to filter our list of candidates based on the language we are hiring for. We want to find which candidates would be a good match for an interview.
 
-1. Define a method named `language_screening` that accepts two arguments: `people` (an array) and `language` (a string).
-2. Return the members of the `people` list that know the `language` that was passed in.
+1. Define a method named `language_screening` that accepts two arguments: `people` (an array) and `language` (a string). ✅
+2. Return the members of the `people` list that know the `language` that was passed in. ✅
 
-   - the language comparisons should be case insensitive
+   - the language comparisons should be case insensitive ✅
 
-3. Call the method with the following options and past your results and the method itself into a file named `language_screening.rb`.
+3. Call the method with the following options and past your results and the method itself into a file named `language_screening.rb`. ✅
 
    - `language_screening(candidates, "Python")`
    - `language_screening(candidates, "GO")`
